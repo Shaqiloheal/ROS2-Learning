@@ -1,0 +1,2 @@
+[console_scripts]
+launch = turtlesim_mimic_launch.py.launch:main

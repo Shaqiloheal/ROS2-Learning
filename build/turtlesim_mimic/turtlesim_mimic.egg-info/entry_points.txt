@@ -1,0 +1,2 @@
+[console_scripts]
+mimic_node = turtlesim_mimic.mimic_node:main

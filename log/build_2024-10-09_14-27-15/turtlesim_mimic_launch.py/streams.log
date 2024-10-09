@@ -1,0 +1,28 @@
+[0.627s] Invoking command in '/home/shaqiloheal/ros2_ws/src/turtlesim_mimic_launch': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_mimic_launch.py build --build-base /home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/build install --record /home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/install.log --single-version-externally-managed install_data
+[0.738s] running egg_info
+[0.738s] creating ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info
+[0.746s] writing ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/PKG-INFO
+[0.746s] writing dependency_links to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/dependency_links.txt
+[0.746s] writing entry points to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/entry_points.txt
+[0.746s] writing requirements to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/requires.txt
+[0.746s] writing top-level names to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/top_level.txt
+[0.746s] writing manifest file '../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/SOURCES.txt'
+[0.753s] reading manifest file '../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/SOURCES.txt'
+[0.753s] adding license file 'LICENSE'
+[0.754s] writing manifest file '../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/SOURCES.txt'
+[0.754s] running build
+[0.754s] running install
+[0.757s] running install_data
+[0.757s] creating /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/share
+[0.757s] creating /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/share/ament_index
+[0.757s] creating /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/share/ament_index/resource_index
+[0.757s] creating /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/share/ament_index/resource_index/packages
+[0.757s] copying resource/turtlesim_mimic_launch.py -> /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/share/ament_index/resource_index/packages
+[0.757s] creating /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/share/turtlesim_mimic_launch.py
+[0.757s] copying package.xml -> /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/share/turtlesim_mimic_launch.py
+[0.757s] running install_egg_info
+[0.772s] Copying ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info to /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/lib/python3.12/site-packages/turtlesim_mimic_launch.py-0.0.0-py3.12.egg-info
+[0.773s] running install_scripts
+[0.830s] Installing launch script to /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/lib/turtlesim_mimic_launch.py
+[0.830s] writing list of installed files to '/home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/install.log'
+[0.843s] Invoked command in '/home/shaqiloheal/ros2_ws/src/turtlesim_mimic_launch' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_mimic_launch.py build --build-base /home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/build install --record /home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/install.log --single-version-externally-managed install_data

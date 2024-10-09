@@ -1,0 +1,20 @@
+running egg_info
+creating ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info
+writing ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/top_level.txt
+writing manifest file '../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+running install_egg_info
+removing '/home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/lib/python3.12/site-packages/turtlesim_mimic_launch.py-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/turtlesim_mimic_launch.py/turtlesim_mimic_launch.py.egg-info to /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/lib/python3.12/site-packages/turtlesim_mimic_launch.py-0.0.0-py3.12.egg-info
+running install_scripts
+Installing launch script to /home/shaqiloheal/ros2_ws/install/turtlesim_mimic_launch.py/lib/turtlesim_mimic_launch.py
+writing list of installed files to '/home/shaqiloheal/ros2_ws/build/turtlesim_mimic_launch.py/install.log'

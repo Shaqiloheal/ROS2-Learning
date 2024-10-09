@@ -1,0 +1,3 @@
+source;share/turtlesim_mimic_launch.py/hook/pythonpath.ps1
+source;share/turtlesim_mimic_launch.py/hook/pythonpath.dsv
+source;share/turtlesim_mimic_launch.py/hook/pythonpath.sh

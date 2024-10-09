@@ -1,0 +1,17 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/turtlesim_mimic/turtlesim_mimic.egg-info/PKG-INFO
+../../build/turtlesim_mimic/turtlesim_mimic.egg-info/SOURCES.txt
+../../build/turtlesim_mimic/turtlesim_mimic.egg-info/dependency_links.txt
+../../build/turtlesim_mimic/turtlesim_mimic.egg-info/entry_points.txt
+../../build/turtlesim_mimic/turtlesim_mimic.egg-info/requires.txt
+../../build/turtlesim_mimic/turtlesim_mimic.egg-info/top_level.txt
+../../build/turtlesim_mimic/turtlesim_mimic.egg-info/zip-safe
+resource/turtlesim_mimic
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+turtlesim_mimic/__init__.py
+turtlesim_mimic/mimic_node.py

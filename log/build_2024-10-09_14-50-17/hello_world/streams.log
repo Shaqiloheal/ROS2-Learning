@@ -1,0 +1,22 @@
+[0.547s] Invoking command in '/home/shaqiloheal/ros2_ws/src/hello_world': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shaqiloheal/ros2_ws/build/hello_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shaqiloheal/ros2_ws/install/hello_world/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/shaqiloheal/ros2_ws/build/hello_world/build install --record /home/shaqiloheal/ros2_ws/build/hello_world/install.log --single-version-externally-managed install_data
+[0.659s] running egg_info
+[0.667s] writing ../../build/hello_world/hello_world.egg-info/PKG-INFO
+[0.667s] writing dependency_links to ../../build/hello_world/hello_world.egg-info/dependency_links.txt
+[0.667s] writing entry points to ../../build/hello_world/hello_world.egg-info/entry_points.txt
+[0.667s] writing requirements to ../../build/hello_world/hello_world.egg-info/requires.txt
+[0.667s] writing top-level names to ../../build/hello_world/hello_world.egg-info/top_level.txt
+[0.682s] reading manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[0.682s] adding license file 'LICENSE'
+[0.682s] writing manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[0.682s] running build
+[0.683s] running build_py
+[0.683s] running install
+[0.686s] running install_lib
+[0.693s] running install_data
+[0.693s] running install_egg_info
+[0.701s] removing '/home/shaqiloheal/ros2_ws/install/hello_world/lib/python3.12/site-packages/hello_world-0.0.0-py3.12.egg-info' (and everything under it)
+[0.701s] Copying ../../build/hello_world/hello_world.egg-info to /home/shaqiloheal/ros2_ws/install/hello_world/lib/python3.12/site-packages/hello_world-0.0.0-py3.12.egg-info
+[0.702s] running install_scripts
+[0.759s] Installing hello script to /home/shaqiloheal/ros2_ws/install/hello_world/lib/hello_world
+[0.759s] writing list of installed files to '/home/shaqiloheal/ros2_ws/build/hello_world/install.log'
+[0.781s] Invoked command in '/home/shaqiloheal/ros2_ws/src/hello_world' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shaqiloheal/ros2_ws/build/hello_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shaqiloheal/ros2_ws/install/hello_world/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/shaqiloheal/ros2_ws/build/hello_world/build install --record /home/shaqiloheal/ros2_ws/build/hello_world/install.log --single-version-externally-managed install_data
