@@ -1,0 +1,39 @@
+[0.354s] Invoking command in '/home/shaqiloheal/ros2_ws/src/publisher_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shaqiloheal/ros2_ws/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/shaqiloheal/ros2_ws/build/publisher_pkg/build install --record /home/shaqiloheal/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data
+[0.468s] running egg_info
+[0.468s] creating ../../build/publisher_pkg/publisher_pkg.egg-info
+[0.475s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[0.475s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[0.475s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[0.475s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[0.475s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[0.475s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.490s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.490s] adding license file 'LICENSE'
+[0.490s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.490s] running build
+[0.491s] running build_py
+[0.491s] creating /home/shaqiloheal/ros2_ws/build/publisher_pkg/build
+[0.491s] creating /home/shaqiloheal/ros2_ws/build/publisher_pkg/build/lib
+[0.491s] creating /home/shaqiloheal/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg
+[0.491s] copying publisher_pkg/simple_publisher.py -> /home/shaqiloheal/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg
+[0.491s] copying publisher_pkg/__init__.py -> /home/shaqiloheal/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg
+[0.491s] running install
+[0.494s] running install_lib
+[0.501s] creating /home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages/publisher_pkg
+[0.501s] copying /home/shaqiloheal/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg/simple_publisher.py -> /home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages/publisher_pkg
+[0.501s] copying /home/shaqiloheal/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg/__init__.py -> /home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages/publisher_pkg
+[0.502s] byte-compiling /home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages/publisher_pkg/simple_publisher.py to simple_publisher.cpython-312.pyc
+[0.502s] byte-compiling /home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages/publisher_pkg/__init__.py to __init__.cpython-312.pyc
+[0.502s] running install_data
+[0.502s] creating /home/shaqiloheal/ros2_ws/install/publisher_pkg/share/ament_index
+[0.502s] creating /home/shaqiloheal/ros2_ws/install/publisher_pkg/share/ament_index/resource_index
+[0.502s] creating /home/shaqiloheal/ros2_ws/install/publisher_pkg/share/ament_index/resource_index/packages
+[0.502s] copying resource/publisher_pkg -> /home/shaqiloheal/ros2_ws/install/publisher_pkg/share/ament_index/resource_index/packages
+[0.502s] copying package.xml -> /home/shaqiloheal/ros2_ws/install/publisher_pkg/share/publisher_pkg
+[0.502s] copying launch/publisher_pkg_launch_file.launch.py -> /home/shaqiloheal/ros2_ws/install/publisher_pkg/share/publisher_pkg
+[0.502s] running install_egg_info
+[0.510s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages/publisher_pkg-0.0.0-py3.12.egg-info
+[0.511s] running install_scripts
+[0.567s] Installing simple_publisher script to /home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/publisher_pkg
+[0.567s] writing list of installed files to '/home/shaqiloheal/ros2_ws/build/publisher_pkg/install.log'
+[0.580s] Invoked command in '/home/shaqiloheal/ros2_ws/src/publisher_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shaqiloheal/ros2_ws/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shaqiloheal/ros2_ws/install/publisher_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/shaqiloheal/ros2_ws/build/publisher_pkg/build install --record /home/shaqiloheal/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data
